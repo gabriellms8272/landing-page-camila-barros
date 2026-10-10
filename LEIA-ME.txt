@@ -1,0 +1,23 @@
+LANDING PAGE — CAMILA BARROS | FISIOTERAPIA
+
+Arquivos
+- index.html: conteúdo e estrutura da página
+- styles.css: cores, tipografia, layout e adaptação para celular
+- script.js: menu móvel, fechamento da navegação e ano automático no rodapé
+- assets/camila-retrato.jpg: retrato usado na área principal da página
+
+Como visualizar
+Abra o arquivo index.html em um navegador. A página não precisa de servidor ou instalação.
+
+Antes de publicar, revise os dados de demonstração
+1. No index.html, substitua o número 5500000000000 no link wa.me pelo número profissional com código do país e DDD.
+2. Confirme e preencha CREFITO, endereço, cidade, bairro, horários e formatos de atendimento.
+3. Revise as áreas de atendimento e os textos para que correspondam à formação e à atuação real da profissional.
+4. Atualize título e descrição no início do index.html, se desejar.
+
+Os textos foram criados como exemplo para visualizar a página. A demonstração não confirma especialidades, endereço, registro ou disponibilidade da profissional.
+
+Fontes
+O site usa DM Sans e Manrope do Google Fonts quando há conexão com a internet. Se não houver conexão, utiliza fontes alternativas locais.
+
+
